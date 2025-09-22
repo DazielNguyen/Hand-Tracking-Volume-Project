@@ -1,2 +1,6 @@
 Dùng Python 3.8.10 mới dùng đc thư viện mediapipe(phần solutions)
 Thư viện pycam thì chỉ dùng được trên window còn mac thì chạy subprocess
+
+cách chạy 
+mở terminal python tên file.py
+để stop command + C
